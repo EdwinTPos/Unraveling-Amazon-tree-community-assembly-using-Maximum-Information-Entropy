@@ -2,7 +2,7 @@
 
 R-code for running the mice imputation, normal and spatial calculations of maximum information entropy using parallel processing. A list of used packages is in the MEF.R script, reference list can be found below:
 
-#Functions for maxent calculations are derived from the FD package and edited to operate in parallel calculation as well as spatial analysis:
+# Source code for maxent calculations are derived from the FD package and edited to operate in parallel calculation as well as spatial analysis:
 Laliberté, E., and P. Legendre (2010) A distance-based framework for measuring functional diversity from multiple traits. Ecology 91:299-305.
 Laliberté, E., Legendre, P., and B. Shipley. (2014). FD: measuring functional diversity from multiple traits, and other tools for functional ecology. 
 R package version 1.0-12.
@@ -17,7 +17,7 @@ With Dryad Datapackage
 
 Kraft TS, Wright SJ, Turner I, Lucas PW, Oufiero CE, Noor MNS, Sun I, Dominy NJ (2015) Data from: Seed size and the evolution of leaf defences. Dryad Digital Repository. https://doi.org/10.5061/dryad.69ph0
 
-Reference list:
+# Full reference list of used packages and edited source code:
 Jari Oksanen, F. Guillaume Blanchet, Michael Friendly, Roeland Kindt, Pierre Legendre, Dan McGlinn, Peter R. Minchin, R. B. O'Hara, Gavin L. Simpson, Peter
   Solymos, M. Henry H. Stevens, Eduard Szoecs and Helene Wagner (2020). vegan: Community Ecology Package. R package version 2.5-7.
   https://CRAN.R-project.org/package=vegan
