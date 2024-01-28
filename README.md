@@ -43,4 +43,6 @@ Douglas Nychka, Reinhard Furrer, John Paige, Stephan Sain (2021). “fields: Too
 
 Steve Weston and Hadley Wickham (2014). itertools: Iterator Tools. R package version 0.1-3. https://CRAN.R-project.org/package=itertools
 
+Hijmans, R.J, Phillips, S., Leathwick, J. and Elith, J. (2011), Package ‘dismo’. Available online at: http://cran.r-project.org/web/packages/dismo/index.html.
+
 
